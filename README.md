@@ -3,3 +3,4 @@ IoT (Internet of Things) device tersebut mampu membaca data dari berbagai jenis 
 
 ### Contributor
 <a href="https://github.com/2azmi2">@2azmi2</a>
+* [Awesome Azure IoT](https://github.com/formulahendry/awesome-azure-iot) - A curated list of awesome Azure Internet of Things projects and resources.
